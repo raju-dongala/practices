@@ -1,2 +1,4 @@
 Hello This is git practice
 I have modified the file in second time
+
+adding the lines into text file.txt
